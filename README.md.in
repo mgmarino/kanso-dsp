@@ -1,0 +1,21 @@
+kanso-dsp
+=========
+
+dsp.js wrapped for kan.so
+
+This is currently version @VERSION@.  The dsp.js website is:
+
+@URL@
+
+Usage
+-----
+
+```
+var dsp = require('dsp');
+var fft = new dsp.FFT( ... );
+```
+
+Options or more information on the API can be found on the 
+dsp.js website: @URL@.
+
+

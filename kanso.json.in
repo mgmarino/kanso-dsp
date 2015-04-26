@@ -1,0 +1,19 @@
+{
+    "name": "@MODULENAME@",
+    "version": "@VERSION@-kanso.1",
+    "categories": ["utils"],
+    "maintainers": [
+        {
+            "name": "Michael Marino",
+            "url": "https://github.com/mgmarino"
+        }
+    ],
+    "url": "@URL@",
+    "modules": "@MODULENAME@.js",
+    "modules_attachment": false,
+    "dependencies": {
+        "modules": null,
+        "attachments": null
+    },
+    "description": "dsp.js provides a set of dsp functions, similar to the deprecated audio data API from Firefox."
+}

@@ -1,0 +1,19 @@
+{
+    "name": "dsp",
+    "version": "0.1.0-kanso.1",
+    "categories": ["utils"],
+    "maintainers": [
+        {
+            "name": "Michael Marino",
+            "url": "https://github.com/mgmarino"
+        }
+    ],
+    "url": "https://github.com/corbanbrook/dsp.js",
+    "modules": "dsp.js",
+    "modules_attachment": false,
+    "dependencies": {
+        "modules": null,
+        "attachments": null
+    },
+    "description": "dsp.js provides a set of dsp functions, similar to the deprecated audio data API from Firefox."
+}
